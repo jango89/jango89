@@ -22,6 +22,6 @@
 </a>
 
 
-<a href="https://medium.com/@rohithmenon89" target="_blank">
+<a href="https://medium.com/@rohithkunnath" target="_blank">
   <img src="https://img.shields.io/badge/jango89-black?style=for-the-badge&logo=medium&logoColor=white=" alt="rohiths's Medium Community Profile" style="margin-bottom: 5px;" />
 </a>
