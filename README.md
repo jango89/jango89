@@ -1,7 +1,6 @@
 ### Hey, I'm Rohith! 👋
 
-👨‍💻 Lead Engineer at [@straumann](https://github.com/straumann/)  
-🇧🇷 From Kerala, India  
+👨‍💻 Lead Engineer at [@straumann](https://github.com/straumann/)    
 🇩🇪 Living in Berlin, Germany. 
 
 ### Find me elsewhere 🌎  
